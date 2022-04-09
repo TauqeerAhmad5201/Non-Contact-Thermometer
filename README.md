@@ -26,3 +26,8 @@ As from the name suggested, we can understand without any contact will be regard
 ![circuit](https://github.com/TauqeerAhmad5201/Non-Contact-Thermometer/blob/main/images/circuit_diagram.png?raw=true)
 
 ## Working Snippets
+
+![circuit](https://github.com/TauqeerAhmad5201/Non-Contact-Thermometer/blob/main/images/3.jpg?raw=true)
+![circuit](https://github.com/TauqeerAhmad5201/Non-Contact-Thermometer/blob/main/images/1.jpg?raw=true)
+![circuit](https://github.com/TauqeerAhmad5201/Non-Contact-Thermometer/blob/main/images/2.jpg?raw=true)
+
