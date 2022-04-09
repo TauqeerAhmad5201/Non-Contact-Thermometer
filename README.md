@@ -1,4 +1,5 @@
 # Non-Contact-Thermometer
+Arduino UNO based non contact thermometer embedded with GY906 sensor to detect the temperature of a human body without any physical attention thus saving spreading of Corona Virus among the people.
 
 ![promo](https://github.com/TauqeerAhmad5201/Non-Contact-Thermometer/blob/main/images/4.jpg?raw=true)
 
