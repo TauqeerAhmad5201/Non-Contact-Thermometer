@@ -15,6 +15,6 @@ Recent day, whole world is struggling with virus Covid19. First checking for eff
 - OLED 128x32
 - Breadboard cables
 
-#Circuit Diagram
+# Circuit Diagram
 
 ![circuit](https://github.com/TauqeerAhmad5201/Non-Contact-Thermometer/blob/main/images/circuit_diagram.png?raw=true)
